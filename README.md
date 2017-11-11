@@ -1,6 +1,7 @@
 Activiti
 ========
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/994567fbaf1847849fac9ba4dbb597d0)](https://www.codacy.com/app/autumind/Activiti?utm_source=github.com&utm_medium=referral&utm_content=autumind/Activiti&utm_campaign=badger)
 [![Join the chat at https://gitter.im/Activiti/Activiti7](https://badges.gitter.im/Activiti/Activiti7.svg)](https://gitter.im/Activiti/Activiti7?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 
